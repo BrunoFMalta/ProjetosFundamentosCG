@@ -1,7 +1,7 @@
 ## Tarefa: Lista de Exercícios 1
 
 ## Equipe
-- Pedro Henrique Bassani
+- Bruno Felipe Malta
 
 ## Pré requisitos e dependências
 
