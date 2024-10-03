@@ -1,4 +1,3 @@
-[PT-BR]
 ## Tarefa: Lista de Exercícios 1
 
 ## Equipe
