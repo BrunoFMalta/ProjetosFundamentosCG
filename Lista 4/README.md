@@ -27,7 +27,6 @@ Atualmente todas as tarefas estão concluidas e resolvidas desta lista:
 - [x] Tarefa 7
 - [x] Tarefa 8
 - [x] Tarefa 9
-- [x] Tarefa 10
 
 ## Referências e/ou créditos
 >
