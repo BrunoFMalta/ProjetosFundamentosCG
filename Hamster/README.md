@@ -9,7 +9,7 @@
 ## Comentários gerais
 
 >
->Cada pasta contém uma lista com exercícios prontos!
+>
 >
 
 ## Referências e/ou créditos
