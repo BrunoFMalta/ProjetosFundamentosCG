@@ -70,6 +70,6 @@ int main() {
         }
     }
 
-    printf("The race has ended!\n");
+    printf("A corrida acabou!\n");
     return 0;
 }
