@@ -1,54 +1,7 @@
-[EN] Portuguese below
-# Task: Exercise List 5
-
-## Team
-- Pedro Henrique Bassani
-
-## Prerequisites and Dependencies
-
-- You need access to Visual Studio Code and the C/C++ Extension Pack.
-- Recommended for Windows. (Not yet tested on Linux or Mac)
-
-## General Comments
-
->
->Each exercise in the list is solving some activity previously covered in class.
->
-
-## Adjustments and Improvements
-
-Currently, all tasks from this list are completed and solved:
-
-- [x] Task 1A
-- [x] Task 1B
-- [x] Task 1C
-- [x] Task 1D
-- [x] Task 1E
-- [x] Task 1F
-- [x] Task 1G
-- [x] Task 1H
-- [x] Task 1I
-- [x] Task 2
-- [x] Task 3
-- [x] Task 4A
-- [x] Task 4B
-- [x] Task 4C
-- [x] Task 4D
-- [x] Task 5
-- [x] Task 6
-
-## References and/or Credits
->
-> Credits to professor ROSSANA BAPTISTA QUEIROZ,  
->for providing the exercise list for the appropriate learning and support in the course.
->
-<br>
-
-[PT-BR]
 ## Tarefa: Lista de Exercícios 5
 
 ## Equipe
-- Pedro Henrique Bassani
+- Bruno Felipe Malta
 
 ## Pré requisitos e dependências
 
@@ -86,5 +39,4 @@ Atualmente todas as tarefas estão concluidas e resolvidas desta lista:
 ## Referências e/ou créditos
 >
 > Créditos a professora ROSSANA BAPTISTA QUEIROZ,
->por disponibilizar a lista de exercícios para o devido conhecimento e auxílio da matéria.
 >
